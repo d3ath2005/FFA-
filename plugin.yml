@@ -1,0 +1,7 @@
+name: FFA
+version: 1.0
+author: d3ath2005
+main: me.d3ath2005.ffa.MainClass
+commands:
+  stats:
+    description: View player stats!
